@@ -1,0 +1,32 @@
+body {
+	background: #F7F7F7 url(../images/body_bg.png) repeat-y center top;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #222;
+}
+
+#holder {
+	width: 760px;
+	padding: 15px;
+	margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #999999;
+	font-family: Georgia,serif;
+	font-style: italic;
+	font-weight: normal;
+}
+
+input[type=text] {
+	width: 300px;
+}
+
+fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+fieldset p {
+	margin: 0;
+}
